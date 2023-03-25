@@ -1,6 +1,6 @@
 {
   "name": "fasterbase-client-sdk",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "OpenAPI client for Fasterbase",
   "author": "Faraz Faraji",
   "keywords": [
