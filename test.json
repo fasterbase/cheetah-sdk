@@ -1,0 +1,9 @@
+{  "name": "fasterbase-client-sdk",
+"version": "0.0.1",
+"description": "OpenAPI client for Fasterbase",
+"author": "Faraz Faraji",
+"keywords": [
+  "fasterbase",
+  "iot",
+  "platform"
+]}
